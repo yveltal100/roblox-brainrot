@@ -1,0 +1,1 @@
+{"steps":[{"screenshot":"1-thumbnail.jpg"},{"keys":["W"],"screenshot":"2-conveyor.jpg","wait_ms":1500},{"keys":["A"],"screenshot":"3-base.jpg","wait_ms":1200},{"call":{"arg":"tour","fn":"startWaveNow","module":"ServerScriptService.Server.TideWave","on":"Server"},"screenshot":"4-tide.jpg","wait_ms":2500}],"tour":1}
